@@ -1,0 +1,8 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
+
+# files to ignore
+_posts/2020-09-18-welcome-to-jekyll.markdown
