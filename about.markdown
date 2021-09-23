@@ -7,7 +7,6 @@ permalink: /about/
 Hi,
 
 My name is Pushkar. *Pushkar of Blog* is one of my side projects.
-I am currently working in Western Sydney University in Technical Support Services.
 I like to spend my time reading books and learning about Artificial Intelligence.
 
 I like playing Civilization VI on my Nintendo Switch Lite.
